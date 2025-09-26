@@ -3,9 +3,14 @@ Auteur : Alice
 Ingrédients :
 - 200 g de spaghetti
 - 100 g de guanciale
+
+naby test1
+
 - 2 jaunes d’œuf + 1 entier
 - 50 g de parmesan râpé
 - Poivre
+
+naby test2
 
 Étapes :
 1. Cuire les pâtes al dente.
@@ -14,3 +19,5 @@ Ingrédients :
 4. Ajouter un peu d'eau de cuisson en fin de cuisson
 5. Égoutter les pâtes, ajouter le mélange œufs/fromage hors du feu.
 6. Poivrer, servir chaud.
+
+naby test 3
